@@ -1,6 +1,6 @@
 class Armstrong_number{
 
-public static void main(String[]args){
+public static void main (String[]args){
 
 int no=32;
 int no1=no;
